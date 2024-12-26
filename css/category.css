@@ -1,0 +1,25 @@
+@import "./variables.css";
+@import "./fonts.css";
+@import './top-bar.css';
+@import "./navbar.css";
+@import "./defaults.css";
+@import "./footer.css";
+@import "./course-box.css";
+
+/* Start Courses Tob-bar Styles */
+
+.courses {
+    margin: 4rem 0;
+}
+
+.Courses-top-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Courses-top-bar__right {
+    
+}
+
+/* Start Courses Tob-bar Styles */
